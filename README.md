@@ -1,6 +1,6 @@
 # Reisefieber – Rechtstexte
 
-Die öffentlichen Seiten zur iPhone-App **Reisefieber – Reise-Countdown**:
+Die öffentlichen Seiten zur iPhone-App **Reisefieber**:
 Datenschutzerklärung, Impressum und Support.
 
 Apple verlangt in App Store Connect eine öffentlich erreichbare
